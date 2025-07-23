@@ -1,13 +1,4 @@
-# import pyodbc
 
-# def get_connection():
-#     conn = pyodbc.connect(
-#         'DRIVER={SQL Server};'
-#         'SERVER=LAPTOP-8MA1M6E0\\SQLEXPRESS;'
-#         'DATABASE=InternDB;'
-#         'Trusted_Connection=yes;'
-#     )
-#     return conn
 
 import pyodbc
 
