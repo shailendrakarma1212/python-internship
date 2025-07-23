@@ -11,7 +11,4 @@ This repository contains beginner-friendly Python programs for learning and prac
 - File Handling
 - Simple Use of Libraries
 
----
-
-## 📁 Folder Structure
 
